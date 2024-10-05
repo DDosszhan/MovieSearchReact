@@ -1,5 +1,11 @@
 # Replace example API key to your actual from [here](https://www.omdbapi.com/)
 
+Then write in console
+
+```bash
+npm install
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
